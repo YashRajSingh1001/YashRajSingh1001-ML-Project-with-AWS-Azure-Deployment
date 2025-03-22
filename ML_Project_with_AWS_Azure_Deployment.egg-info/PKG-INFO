@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: ML-Project-with-AWS-Azure-Deployment
+Version: 0.0.1
+Author: Yash Raj
+Author-email: yashrajsingh1001@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
